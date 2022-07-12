@@ -18,9 +18,9 @@ struct ContentView: View {
             }.sheet(isPresented: $isPresented){
                 ModelView()
             }
-            .navigationTitle("XCode and Git")
+            .navigationTitle("XCode and Git sunny")
             
-        }.foregroundColor(.purple)
+        }.foregroundColor(.green)
     }
 }
 
