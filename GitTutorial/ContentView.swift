@@ -20,6 +20,7 @@ struct ContentView: View {
             }
             .navigationTitle("XCode and Git sunny")
             
+        }.foregroundColor(.red)
         }.foregroundColor(.purple)
     }
 }
