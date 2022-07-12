@@ -11,6 +11,7 @@
 		365000F1287D53E900C4173C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 365000F0287D53E900C4173C /* ContentView.swift */; };
 		365000F3287D53EB00C4173C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 365000F2287D53EB00C4173C /* Assets.xcassets */; };
 		365000F6287D53EB00C4173C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 365000F5287D53EB00C4173C /* Preview Assets.xcassets */; };
+		36E95C13287D66400080343C /* ModelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E95C12287D66400080343C /* ModelView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		365000F0287D53E900C4173C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		365000F2287D53EB00C4173C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		365000F5287D53EB00C4173C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		36E95C12287D66400080343C /* ModelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				365000EE287D53E900C4173C /* GitTutorialApp.swift */,
+				36E95C12287D66400080343C /* ModelView.swift */,
 				365000F0287D53E900C4173C /* ContentView.swift */,
 				365000F2287D53EB00C4173C /* Assets.xcassets */,
 				365000F4287D53EB00C4173C /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				36E95C13287D66400080343C /* ModelView.swift in Sources */,
 				365000F1287D53E900C4173C /* ContentView.swift in Sources */,
 				365000EF287D53E900C4173C /* GitTutorialApp.swift in Sources */,
 			);

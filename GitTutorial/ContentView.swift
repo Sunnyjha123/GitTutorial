@@ -16,9 +16,10 @@ struct ContentView: View {
             Button("Sunny's info"){
                 self.isPresented = true
             }.sheet(isPresented: $isPresented){
-                Text("Hello, world!")
-              
+                ModelView()
             }
+            .navigationTitle("XCode and Git")
+            
         }
     }
 }
